@@ -1,0 +1,19 @@
+{
+  "name": "blinking-eye-cloud-dreams",
+  "version": "1.0.0",
+  "description": "Animated blinking eye web application with cloud theme",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["animation", "eye", "clouds", "web", "mvp"],
+  "author": "AgentShop",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
